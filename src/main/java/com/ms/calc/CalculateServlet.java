@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-
+//Devloper B Changes
 @WebServlet(name = "CalculateServlet", urlPatterns = {"/CalculateServlet"}, initParams={
 @WebInitParam(name="no1", value=""), 
 @WebInitParam(name="no2", value=""),
