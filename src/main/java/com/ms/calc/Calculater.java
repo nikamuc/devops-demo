@@ -1,5 +1,6 @@
 package com.ms.calc;
  //testing
+//COMMENTED CODE ADDED
 public class Calculater {
  // Dev A Commit changes;
 	public double doAdd(double num1, double num2) {
